@@ -25,10 +25,10 @@ The agents group has the following structure:
 ### Genetic Algorithm
 We used genetic algorithm to find the best number of each agents at each level. The Chromosome is numbers of queens, number of workers and # of scouts. The cross-over and mutation probability were 50 and 1 percent respectively.
 ### Learning Method
-We used Double Q-learning with following parameters.
+We used Double Q-learning with following parameters.</br>
 ![image](https://user-images.githubusercontent.com/19387425/190783867-960cd089-bb19-4a4d-b4ee-40e8c0c3a35c.png)</br>
 ### Result
-The mean episodic rewrad of our problem and a gif of the result was aas follows.<\br>
+The mean episodic rewrad of our problem and a gif of the result was aas follows.</br>
 ![image](https://user-images.githubusercontent.com/19387425/190788674-0eaa2df8-f12c-42e4-b6c0-48d902a82441.png)</br>
 
 ![Run](run.gif "Run")
